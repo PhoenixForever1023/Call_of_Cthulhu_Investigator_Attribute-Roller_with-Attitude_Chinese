@@ -111,19 +111,19 @@ COC-Tianmingwu-Generator/
 | Finale | finale.py | 五次八维生成选择，最终选择打印 |
 
 ### 数据流
-- resource.py 存储共享数据：
+resource.py 存储共享数据：
 
- - skill_dict: 八大属性字典
+- skill_dict: 八大属性字典
 
- - comment_sentence: 评价语句
+- comment_sentence: 评价语句
 
- - lyric: 彩蛋歌词
+- lyric: 彩蛋歌词
 
-- 属性生成逻辑：
+属性生成逻辑：
 
- - 所有属性通过 (随机3D6)×5 计算
+- 所有属性通过 (随机3D6)×5 计算
 
- - 属性范围：15-90（实际15-90，3-18×5）
+- 属性范围：15-90（实际15-90，3-18×5）
 
 ---
 
