@@ -194,4 +194,4 @@ resource.py 存储共享数据：
 PhoenixForever1023: https://github.com/PhoenixForever1023
 
 项目仓库：  
-https://github.com/PhoenixForever1023/Call_of_Cthulhu_Keeper_Assistant-English
+[ttps://github.com/PhoenixForever1023/Call_of_Cthulhu_Investigator_Attribute-Roller_with-Attitude_Chinese]
