@@ -93,7 +93,7 @@ COC-Tianmingwu-Generator/
 ├── choice3.py           # 刺激生成模式
 ├── finale.py            # 最终选择界面
 ├── resource.py          # 资源文件（属性字典、文本等）
-└── README-zh.md         # 中文说明文档
+└── README.md         # 中文说明文档
 
 ```
 
